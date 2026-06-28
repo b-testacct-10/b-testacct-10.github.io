@@ -122,7 +122,9 @@ main {
   display: inline-flex;
 }
 
-.link--icon svg {
+.link--icon svg,
+.link--icon img,
+.icon {
   width: 22px;
   height: 22px;
 }
